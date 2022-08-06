@@ -1,0 +1,34 @@
+{
+  "name": "Dark",
+  "displayName": "Dark Theme",
+  "description": "Dark Theme",
+  "version": "0.1.0",
+  "publisher": "DimitarNonov",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/DNonov/jellybeans-code"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark",
+    "Visual Studio Code"
+  ],
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jellybeans-theme-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package"
+  }
+}
