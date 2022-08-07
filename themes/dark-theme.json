@@ -13,10 +13,10 @@
     "statusBar.foreground": "#e0e0e0",
     "statusBar.noFolderBackground": "#333333",
     "editorLineNumber.activeForeground": "#fabb6e",
-    // Terminal
+
     "terminal.ansiWhite": "#e0e0e0",
     "terminal.ansiBrightWhite": "#e0e0e0",
-    // Prevents black foreground to black background
+
     "terminal.ansiBlack": "#e0e0e0",
     "terminal.ansiBrightBlack": "#e0e0e0",
     "terminal.foreground": "#e0e0e0",
@@ -27,19 +27,19 @@
     "terminal.ansiBrightYellow": "#fad07a",
     "terminal.ansiGreen": "#d4fb85",
     "terminal.ansiBrightGreen": "#d4fb85",
-    "terminal.ansiBlue": "#8197BF",
-    "terminal.ansiBrightBlue": "#8197BF",
+    "terminal.ansiBlue": "#7ba0e7",
+    "terminal.ansiBrightBlue": "#7ba0e7",
     "terminal.ansiCyan": "#6796e6",
     "terminal.ansiBrightCyan": "#6796e6",
     "terminal.ansiBrightMagenta": "#b267e6",
     "terminal.ansiMagenta": "#b267e6",
-    // Suggestion Widget
+
     "editorSuggestWidget.background": "#252525",
     "editorSuggestWidget.border": "#454545",
     "editorSuggestWidget.foreground": "#e0e0e0",
     "editorSuggestWidget.highlightForeground": "#5dd2fa",
     "editorSuggestWidget.selectedBackground": "#3f3f3f",
-    // List
+
     "list.activeSelectionBackground": "#3f3f3f",
     "list.activeSelectionForeground": "#ffffff",
     "list.dropBackground": "#062f4a",
@@ -50,7 +50,7 @@
     "list.inactiveSelectionBackground": "#37373d",
     "list.invalidItemForeground": "#e9e9a1",
     "list.warningForeground": "#4d9e4d",
-    // Input
+
     "input.background": "#3c3c3c",
     "input.foreground": "#cccccc",
     "input.placeholderForeground": "#cccccc80",
@@ -61,13 +61,13 @@
     "inputValidation.infoBorder": "#007acc",
     "inputValidation.warningBackground": "#352a05",
     "inputValidation.warningBorder": "#e9e9a1",
-    // Peek View Editor
+
     "peekViewEditor.background": "#1d1d1d",
     "peekViewEditor.matchHighlightBackground": "#3399ff33",
     "peekViewEditorGutter.background": "#1d1d1d",
     "peekViewResult.selectionBackground": "#3399ff33",
     "peekViewResult.selectionForeground": "#ffffff",
-    // VS Code interface icons' colors
+
     "symbolIcon.methodForeground": "#d4fb85",
     "symbolIcon.functionForeground": "#d4fb85",
     "symbolIcon.constructorForeground": "#d4fb85",
@@ -83,14 +83,14 @@
     "symbolIcon.keywordForeground": "#e8e8d3",
     "symbolIcon.unitForeground": "#e8e8d3",
     "symbolIcon.snippetForeground": "#e8e8d3",
-    // Notifications and problems panel icons
+
     "problemsErrorIcon.foreground": "#ce8d78",
     "problemsWarningIcon.foreground": "#e9e9a1",
     "problemsInfoIcon.foreground": "#7ba0e7",
     "notificationsErrorIcon.foreground": "#ce8d78",
     "notificationsInfoIcon.foreground": "#e9e9a1",
     "notificationsWarningIcon.foreground": "#7ba0e7",
-    // Light bulb
+
     "editorLightBulb.foreground": "#e9e9a1",
     "editorLightBulbAutoFix.foreground": "#e9e9a1"
   },
@@ -109,7 +109,7 @@
       "name": "Comments: Preprocessor",
       "scope": "comment.block.preprocessor",
       "settings": {
-        "foreground": "#888888",
+        "foreground": "#888888"
       }
     },
     {
@@ -127,7 +127,7 @@
       "scope": [
         "keyword.operator",
         "punctuation.separator.pointer-access.c",
-        "punctuation.separator.pointer-access.cpp",
+        "punctuation.separator.pointer-access.cpp"
       ],
       "settings": {
         "foreground": "#fefefe"
@@ -206,7 +206,7 @@
       "scope": [
         "variable.parameter.function.language.python",
         "meta.function-call.arguments.python",
-        "variable.parameter.function-call.python",
+        "variable.parameter.function-call.python"
       ],
       "settings": {
         "foreground": "#e0e0e0"
@@ -223,7 +223,7 @@
       "name": "Directive punctuation c",
       "scope": [
         "punctuation.definition.directive.c",
-        "punctuation.definition.directive.cpp",
+        "punctuation.definition.directive.cpp"
       ],
       "settings": {
         "foreground": "#7ba0e7"
@@ -338,7 +338,7 @@
         "meta.tag",
         "punctuation.definition.tag.html",
         "punctuation.definition.tag.begin",
-        "punctuation.definition.tag.end",
+        "punctuation.definition.tag.end"
       ],
       "settings": {
         "foreground": "#888888"
@@ -407,7 +407,7 @@
         "meta.property-value",
         "meta.property-value constant.other",
         "support.constant.property-value",
-        "punctuation.definition.constant.css",
+        "punctuation.definition.constant.css"
       ],
       "settings": {
         "foreground": "#fabb6e"
@@ -464,7 +464,7 @@
     {
       "name": "Clojure: Keyword",
       "scope": [
-        "constant.keyword.clojure",
+        "constant.keyword.clojure"
       ],
       "settings": {
         "foreground": "#5dd2fa"
@@ -529,7 +529,7 @@
         "punctuation.definition.raw.markdown",
         "markup.fenced_code.block.markdown",
         "markup.raw.block.markdown",
-        "markup.inline.raw.string.markdown",
+        "markup.inline.raw.string.markdown"
       ],
       "settings": {
         "foreground": "#888888"
@@ -539,20 +539,20 @@
       "name": "Markdown: Strong",
       "scope": [
         "markup.bold.markdown",
-        "punctuation.definition.bold.markdown",
+        "punctuation.definition.bold.markdown"
       ],
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Markdown: Empasize",
       "scope": [
         "markup.italic.markdown",
-        "punctuation.definition.italic.markdown",
+        "punctuation.definition.italic.markdown"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "italic"
       }
     },
     {
@@ -561,7 +561,7 @@
         "punctuation.definition.arguments.begin.math.tex",
         "punctuation.definition.arguments.end.math.tex",
         "punctuation.math.end.bracket.curly",
-        "punctuation.math.begin.bracket.curly",
+        "punctuation.math.begin.bracket.curly"
       ],
       "settings": {
         "foreground": "#7ba0e7"
@@ -583,7 +583,7 @@
       "name": "Latex & Markdown Math",
       "scope": [
         "punctuation.definition.math.begin.markdown",
-        "punctuation.definition.math.end.markdown",
+        "punctuation.definition.math.end.markdown"
       ],
       "settings": {
         "foreground": "#99ad6a"
@@ -592,7 +592,7 @@
     {
       "name": "Latex Constant",
       "scope": [
-        "punctuation.definition.constant.math.tex",
+        "punctuation.definition.constant.math.tex"
       ],
       "settings": {
         "foreground": "#5dd2fa"
