@@ -6,7 +6,7 @@
   "publisher": "DimitarNonov",
   "repository": {
     "type": "git",
-    "url": "http://github.com/DNonov/jellybeans-code"
+    "url": "http://github.com/DNonov/dark-theme"
   },
   "categories": [
     "Themes"
@@ -24,7 +24,7 @@
       {
         "label": "Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/jellybeans-theme-color-theme.json"
+        "path": "./themes/dark-theme.json"
       }
     ]
   },
