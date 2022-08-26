@@ -428,7 +428,7 @@
 		//"sideBar.dropBackground": "#53595d80",
 		//"sideBySideEditor.horizontalBorder": "#444444",
 		//"sideBySideEditor.verticalBorder": "#444444",
-		//"statusBar.background": "#007acc",
+		"statusBar.background": "#333333",
 		//"statusBar.debuggingBackground": "#cc6633",
 		//"statusBar.debuggingForeground": "#ffffff",
 		//"statusBar.focusBorder": "#ffffff",
