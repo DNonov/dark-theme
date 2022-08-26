@@ -574,7 +574,7 @@
 		//"editor.findMatchBorder": null,
 		//"editor.findMatchHighlightBorder": null,
 		//"editor.findRangeHighlightBorder": null,
-		//"editor.lineHighlightBackground": null,
+		"editor.lineHighlightBackground": "#00000055",
 		//"editor.rangeHighlightBorder": null,
 		//"editor.selectionForeground": null,
 		//"editor.selectionHighlightBorder": null,
