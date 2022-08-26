@@ -492,22 +492,22 @@
 		//"tab.unfocusedInactiveBackground": "#2d2d2d",
 		//"tab.unfocusedInactiveForeground": "#ffffff40",
 		//"tab.unfocusedInactiveModifiedBorder": "#3399cc40",
-		//"terminal.ansiBlack": "#000000",
-		//"terminal.ansiBlue": "#2472c8",
-		//"terminal.ansiBrightBlack": "#666666",
-		//"terminal.ansiBrightBlue": "#3b8eea",
-		//"terminal.ansiBrightCyan": "#29b8db",
-		//"terminal.ansiBrightGreen": "#23d18b",
-		//"terminal.ansiBrightMagenta": "#d670d6",
-		//"terminal.ansiBrightRed": "#f14c4c",
-		//"terminal.ansiBrightWhite": "#e5e5e5",
-		//"terminal.ansiBrightYellow": "#f5f543",
-		//"terminal.ansiCyan": "#11a8cd",
-		//"terminal.ansiGreen": "#0dbc79",
-		//"terminal.ansiMagenta": "#bc3fbc",
-		//"terminal.ansiRed": "#cd3131",
-		//"terminal.ansiWhite": "#e5e5e5",
-		//"terminal.ansiYellow": "#e5e510",
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiBlue": "#4ba4d6",
+		"terminal.ansiBrightBlack": "#666666",
+		"terminal.ansiBrightBlue": "#4ba4d6",
+		"terminal.ansiBrightCyan": "#96dcfe",
+		"terminal.ansiBrightGreen": "#99ad6a",
+		"terminal.ansiBrightMagenta": "#d670d6",
+		"terminal.ansiBrightRed": "#CE9178",
+		"terminal.ansiBrightWhite": "#e5e5e5",
+		"terminal.ansiBrightYellow": "#fad07a",
+		"terminal.ansiCyan": "#96dcfe",
+		"terminal.ansiGreen": "#99ad6a",
+		"terminal.ansiMagenta": "#bc3fbc",
+		"terminal.ansiRed": "#CE9178",
+		"terminal.ansiWhite": "#e5e5e5",
+		"terminal.ansiYellow": "#fad07a",
 		//"terminal.border": "#80808059",
 		//"terminal.dropBackground": "#53595d80",
 		//"terminal.findMatchBackground": "#515c6a",
@@ -968,7 +968,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#569CD6"
 			}
 		},
 		{
@@ -1041,7 +1041,7 @@
 				"entity.name.operator.custom-literal"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#e2c08d"
 			}
 		},
 		{
@@ -1119,7 +1119,7 @@
 				"constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#D4D4D4"
 			}
 		},
 		{
@@ -1129,7 +1129,7 @@
         "constant.other.caps.python"
 			],
 			"settings": {
-				"foreground": "#4FC1FF"
+				"foreground": "#D4D4D4"
 			}
 		},
 		{
