@@ -1081,7 +1081,7 @@
         "punctuation.definition.decorator.python"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#dec5a0"
 			}
 		},
 		{
@@ -1094,7 +1094,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#dec5a0"
 			}
 		},
 		{
