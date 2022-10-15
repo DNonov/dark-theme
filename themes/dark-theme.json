@@ -968,7 +968,13 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#d4d4d4"
+			}
+		},
+		{
+			"scope": "keyword.blade",
+			"settings": {
+				"foreground": "#dec5a0"
 			}
 		},
 		{
